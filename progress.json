@@ -1,0 +1,16 @@
+{
+    "completed_problems": [
+        "Check if string is palindrome"
+    ],
+    "points": 10,
+    "xp_level": 1,
+    "streak": 1,
+    "last_solved_date": "2025-10-02",
+    "badges": [],
+    "weak_topics": {
+        "Arrays & Strings (Easy)": 1
+    },
+    "time_spent": {
+        "Check if string is palindrome": 0.03
+    }
+}

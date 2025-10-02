@@ -1,0 +1,148 @@
+{
+  "weeks": [
+    {
+      "week": 1,
+      "topics": ["Arrays & Strings (Easy)"],
+      "problems": [
+        "Reverse an array",
+        "Check if string is palindrome",
+        "Two sum problem",
+        "Find maximum element in array",
+        "Count vowels in a string",
+        "Merge two sorted arrays"
+      ]
+    },
+    {
+      "week": 2,
+      "topics": ["Arrays & Strings (Medium)"],
+      "problems": [
+        "Maximum subarray sum",
+        "Sliding window maximum",
+        "Longest substring without repeating characters",
+        "Container with most water",
+        "Move zeroes to end",
+        "Product of array except self"
+      ]
+    },
+    {
+      "week": 3,
+      "topics": ["Recursion & Backtracking (Easy-Medium)"],
+      "problems": [
+        "Factorial using recursion",
+        "Fibonacci series",
+        "Generate all subsets of a set",
+        "N-Queens problem",
+        "Rat in a maze",
+        "Tower of Hanoi"
+      ]
+    },
+    {
+      "week": 4,
+      "topics": ["Hashing & Maps"],
+      "problems": [
+        "Two sum using hashmap",
+        "Check for anagrams",
+        "Subarray with 0 sum",
+        "Longest consecutive sequence",
+        "Top K frequent elements",
+        "Group anagrams"
+      ]
+    },
+    {
+      "week": 5,
+      "topics": ["Linked Lists"],
+      "problems": [
+        "Reverse a linked list",
+        "Detect cycle in linked list",
+        "Merge two sorted linked lists",
+        "Remove N-th node from end",
+        "Palindrome linked list",
+        "Intersection of two linked lists"
+      ]
+    },
+    {
+      "week": 6,
+      "topics": ["Stacks & Queues"],
+      "problems": [
+        "Implement stack using array",
+        "Valid parentheses",
+        "Min stack problem",
+        "Implement queue using stacks",
+        "Next greater element",
+        "Sliding window maximum using deque"
+      ]
+    },
+    {
+      "week": 7,
+      "topics": ["Trees (Binary Trees)"],
+      "problems": [
+        "Preorder, inorder, postorder traversal",
+        "Level order traversal",
+        "Maximum depth of binary tree",
+        "Check if tree is balanced",
+        "Lowest common ancestor in BT",
+        "Diameter of binary tree"
+      ]
+    },
+    {
+      "week": 8,
+      "topics": ["Advanced Trees & Heap"],
+      "problems": [
+        "Binary Search Tree operations",
+        "Validate BST",
+        "Kth smallest/largest element in BST",
+        "Heap implementation",
+        "Merge K sorted arrays using heap",
+        "Top K largest elements in array"
+      ]
+    },
+    {
+      "week": 9,
+      "topics": ["Graphs Basics"],
+      "problems": [
+        "Graph representation (adjacency list/matrix)",
+        "DFS traversal",
+        "BFS traversal",
+        "Count connected components",
+        "Detect cycle in undirected graph",
+        "Detect cycle in directed graph"
+      ]
+    },
+    {
+      "week": 10,
+      "topics": ["Graph Algorithms"],
+      "problems": [
+        "Dijkstra's shortest path",
+        "Bellman-Ford algorithm",
+        "Floyd-Warshall algorithm",
+        "Topological sort",
+        "Detect cycle using DFS",
+        "Minimum spanning tree (Prim/Kruskal)"
+      ]
+    },
+    {
+      "week": 11,
+      "topics": ["Dynamic Programming (DP)"],
+      "problems": [
+        "Fibonacci using DP",
+        "0/1 Knapsack",
+        "Minimum path sum in matrix",
+        "Climbing stairs problem",
+        "Subset sum problem",
+        "Coin change problem"
+      ]
+    },
+    {
+      "week": 12,
+      "topics": ["Advanced DP & Mixed Problems"],
+      "problems": [
+        "Longest increasing subsequence",
+        "Longest common subsequence",
+        "Matrix chain multiplication",
+        "Word break problem",
+        "Palindrome partitioning",
+        "Mixed problems (arrays, trees, graphs, DP)"
+      ]
+    }
+  ]
+}
